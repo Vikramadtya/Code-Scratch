@@ -7,6 +7,7 @@
 * [118. Pascal's Triangle](easy/118.-pascals-triangle.md)
 * [1768. Merge Strings Alternately](easy/1768.-merge-strings-alternately.md)
 * [1071. Greatest Common Divisor of Strings](easy/1071.-greatest-common-divisor-of-strings.md)
+* [1431. Kids With the Greatest Number of Candies](easy/1431.-kids-with-the-greatest-number-of-candies.md)
 
 ## Medium
 
