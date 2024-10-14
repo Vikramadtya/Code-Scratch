@@ -8,5 +8,5 @@ coverY: 0
 
 Hey! Welcome to the coding section where i capture the problem solutions.&#x20;
 
-The log of question solver is [here](https://vickysingh.notion.site/LeetCode-Question-Log-650528c02c6043999a7662b4693a4c56?pvs=74) & checkout the [repository](https://github.com/Vikramadtya/code-logs/tree/main/LeetCode) with all solutions
+The log of question solver is [here](https://airtable.com/appd1ErlnOKNxFYlb/shr9duOVejQUlPqsE/tblEQpEg65SCsaz2s) & checkout the [repository](https://github.com/Vikramadtya/code-logs/tree/main/LeetCode) with all solutions
 
