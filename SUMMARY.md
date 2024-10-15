@@ -14,6 +14,7 @@
 ## Medium
 
 * [73. Set Matrix Zeroes](medium/73.-set-matrix-zeroes.md)
+* [151. Reverse Words in a String](medium/151.-reverse-words-in-a-string.md)
 
 ## Hard
 
