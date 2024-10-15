@@ -9,6 +9,7 @@
 * [1071. Greatest Common Divisor of Strings](easy/1071.-greatest-common-divisor-of-strings.md)
 * [1431. Kids With the Greatest Number of Candies](easy/1431.-kids-with-the-greatest-number-of-candies.md)
 * [605. Can Place Flowers](easy/605.-can-place-flowers.md)
+* [345. Reverse Vowels of a String](easy/345.-reverse-vowels-of-a-string.md)
 
 ## Medium
 
